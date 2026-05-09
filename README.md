@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Sivasathya
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Java+Developer;Python+Programmer;Passionate+Web+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Java+Developer;Python+Programmer;Passionate+Web+Developer;Machine+Learning+Engineer" alt="Typing SVG" />
 
 <br><br>
 
@@ -24,12 +24,12 @@
 
 # 🚀 About Me
 
-* 🏆 Achieved **1st Place in Caterpillar Challenge**
+* 🏆 Achieved **1st Place for autonomous rover Agazhvan in Caterpillar Autonomy Challenge 2026**
 * 💻 Full Stack Developer passionate about MERN Stack
-* 🌱 Currently learning advanced web development
+* 🌱 Currently learning advanced web development and Machine Learning
 * 🧠 Exploring Java, Python, and backend systems
-* 🔥 Building real-world applications and projects
-* 🎓 Engineering student passionate about software development
+* 🔥 Building real-world applications and projects using ML-algorithms
+* 🎓 Engineering student passionate about software development and Machine Learning
 
 ---
 
