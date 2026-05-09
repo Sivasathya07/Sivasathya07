@@ -105,18 +105,12 @@ Recharge and payment management application.
 </div>
 
 ---
-
 # 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Sivasathya07&show_icons=true&theme=radical" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sivasathya07&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivasathya07&layout=compact&theme=tokyonight" />
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 
